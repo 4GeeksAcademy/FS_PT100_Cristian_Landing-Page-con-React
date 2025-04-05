@@ -1,12 +1,12 @@
 .card-jumbo{
     display: flex;
-    width: 100%;
+    width: 87%;
     justify-self: center;
     background: gray;
-    height: auto;
+    height: 100%;
 }
 
-.card{
-    display: flex;
-    margin-top: 5%;
+.mycard{
+    width: 330px;
+    max-width: auto;
 }
