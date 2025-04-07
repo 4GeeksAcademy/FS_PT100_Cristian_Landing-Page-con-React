@@ -11,7 +11,7 @@ const Home = () => {
 			<Navbar />
 			<Jumbotron />
 			<div className="container">
-				<div className="row">
+				<div className="row justify-content-center">
 				<MyCard />
 				<MyCard />
 				<MyCard />

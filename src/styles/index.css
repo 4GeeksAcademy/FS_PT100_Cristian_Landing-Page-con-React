@@ -1,4 +1,4 @@
-.card-jumbo{
+.card-jumbo {
     display: flex;
     width: 87%;
     justify-self: center;
@@ -6,7 +6,19 @@
     height: 100%;
 }
 
-.mycard{
+.mycard {
     width: 330px;
     max-width: auto;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+.navbar-nav {
+    align-items: flex-start !important;
 }
